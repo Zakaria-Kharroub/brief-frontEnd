@@ -31,15 +31,9 @@ body{
     text-decoration: none;
     
 }
-.img-logo{
-    width: 30px;
-    height: 40px;
-}
 
-.img-menu{
-    width: 50px;
-    height: 50px;
-}
+
+
 
 .all-header .custom-menu-button {
     background: none;
@@ -128,10 +122,7 @@ body{
     box-shadow: inset 3px 2px 6px -1px gray;
 }
 
-.custom-card img {
-    max-width: 100%;
-    height: auto;
-}
+
 
 
 .custom-card .custom-card-title {
