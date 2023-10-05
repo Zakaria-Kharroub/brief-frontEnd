@@ -202,7 +202,7 @@ text-decoration: none;
     border-radius: 0px 6px 6px 0px;
 }
 .btn-carrd-1:hover, .btn-carrd-2:hover{
-    background-color: red;
+    background-color:#007bff;
     font-weight: bold;
     color: white;
 }
