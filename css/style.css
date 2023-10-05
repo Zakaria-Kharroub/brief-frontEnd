@@ -49,7 +49,10 @@ body{
 
 /* Styles for the custom hero section */
 .custom-hero {
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-image: url("../images/cover-top.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 60px 0;
     text-align: center;
 }
@@ -68,10 +71,14 @@ body{
 .custom-hero .custom-hero-description {
     font-size: 18px;
     color: #555;
+    font-weight: bold;
 }
 
 /* Styles for the custom buttons */
 .custom-btn {
+    color: #fff;
+    box-shadow: 3px 2px 6px -1px gray;  
+    font-weight: bold;
     padding: 10px 20px;
     text-decoration: none;
     border: none;
