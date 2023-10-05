@@ -122,7 +122,10 @@ body{
     box-shadow: inset 3px 2px 6px -1px gray;
 }
 
-
+.custom-card img {
+    max-width: 100%;
+    height: auto;
+}
 
 
 .custom-card .custom-card-title {
